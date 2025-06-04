@@ -1,7 +1,7 @@
 let a: number = 10;
 let b: number = 14;
 
-//Aeitméticos (+,-,*,/,%)
+//Aritméticos (+,-,*,/,%)
 console.log('soma', a + b);
 console.log('subtração', a - b);
 console.log('multipicação', a * b);
@@ -30,4 +30,4 @@ console.log('NOT', !x);
 
 //Operador condicional (ternário)
 let idade: number = 17;
-let acesso = idade >= 18 ? 'Permito beijar na boca' : 'Não permitido' /* condição ? valor se true : valor se false */
+let acesso = idade >= 18 ? 'Permito beijar na boca' : 'Não permitido' /* condição ? valor se true : valor se false*/
